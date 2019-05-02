@@ -1,0 +1,5 @@
+/scripts/
+/src/
+/.gitignore
+/package-lock.json
+/webpack.config.js
