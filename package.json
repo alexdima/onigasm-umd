@@ -1,0 +1,23 @@
+{
+  "name": "onigasm-umd",
+  "version": "1.0.0",
+  "description": "An UMD version of the onigasm npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrudima/onigasm-umd.git"
+  },
+  "keywords": [
+    "oniguruma",
+    "onigasm"
+  ],
+  "author": "Alexandru Dima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandrudima/onigasm-umd/issues"
+  },
+  "homepage": "https://github.com/alexandrudima/onigasm-umd#readme"
+}
