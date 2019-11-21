@@ -2,7 +2,8 @@
   "name": "onigasm-umd",
   "version": "2.2.4",
   "description": "An UMD version of the onigasm npm package",
-  "main": "release/index.js",
+  "main": "release/main.js",
+  "typings": "main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "package": "webpack && node ./scripts/cp ./node_modules/onigasm/lib/onigasm.wasm ./release/onigasm.wasm"
